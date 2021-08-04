@@ -1,0 +1,8 @@
+patient_id,p_name,doctor_id,d_name,date,time,report,tests,perception
+1,rakesh,1,gopal,03-06-2021,09:00 AM,suffering from nervous disease,mri scanning test reports are says blood clot was happen,medicienes
+2,siva,2,rajesh,04-06-2021,09:00 AM,suffering from nervous disease,mri scanning test reports are says blood clot was happen,medicienes
+3,chiru,1,rohith,05-06-2021,09:00 AM,suffering from nervous disease,mri scanning test reports are says blood clot was happen,medicienes
+4,madhav,2,sriram,06-06-2021,09:00 AM,suffering from nervous disease,mri scanning test reports are says blood clot was happen,medicienes
+5,harish,3,tarun,07-06-2021,09:00 AM,suffering from nervous disease,mri scanning test reports are says blood clot was happen,medicienes
+6,rajaram,2,sivakumar,10/06/2021,09:12 am,tb,blood test,medicienes
+7,sita,8,geetha,11/06/2021,09:29 am,kidney stones,sanning,medicines
